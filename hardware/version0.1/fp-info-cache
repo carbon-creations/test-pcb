@@ -1,0 +1,1219 @@
+304667778673537
+josh-bga
+BGA-24_5x5_6.0x8.0mm
+
+
+0
+24
+24
+josh-bga
+BGA-121_10x10mm_Layout11x11_P0.8mm
+TFBGA-121, 11x11 raster, 10x10mm package, pitch 0.8mm; http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#p495
+BGA 121 0.8
+0
+121
+121
+josh-buttons-switches
+POT_1_TURN
+
+
+0
+4
+3
+josh-buttons-switches
+RotaryEncoder_Alps_EC11E
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+josh-buttons-switches
+SW_PUSH_EVQPUL_EVQPUC
+Right angle switch
+
+0
+4
+2
+josh-buttons-switches
+SW_Push_1P1T_NO_HYP_1TS026A-1000-0550-CT
+HYP (Hongyuan Precision) 1TS026A-1000-0550-CT
+tactile switch
+0
+4
+2
+josh-buttons-switches
+SW_Push_KMR2
+CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf
+tactile switch kmr2
+0
+4
+2
+josh-buttons-switches
+SW_Push_PTS645
+CK Components 6mm x 6mm Surface Mount Tactile Switch
+Tactile Switch
+0
+4
+2
+josh-buttons-switches
+SW_SPDT_JS20211SCQN
+CK Components slide switch vertical surface mount
+
+0
+6
+3
+josh-buttons-switches
+SW_SPDT_PCM12
+CK Components Ultraminiature Surface Mount Slide Switch
+
+0
+7
+4
+josh-buttons-switches
+SW_SPST_PTS810
+C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
+SPST Button Switch
+0
+4
+2
+josh-buttons-switches
+SW_SPST_SKQG
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series
+SPST Button Switch
+0
+4
+2
+josh-buttons-switches
+Switch_SMT_SKPMAPE010
+
+
+0
+2
+2
+josh-connectors
+2_PIN_THT
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+2
+2
+josh-connectors
+3_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+3
+3
+josh-connectors
+4_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+4
+4
+josh-connectors
+5_PIN_SMD_PROG
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+josh-connectors
+5_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+5
+5
+josh-connectors
+6_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+josh-connectors
+7_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+7
+7
+josh-connectors
+8_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+8
+8
+josh-connectors
+AVR_PROG_2.54_SMT
+AVR Programmer 6 pogo pin 2.54 mm spacing
+
+0
+6
+6
+josh-connectors
+AVR_PROG_2.54_THT
+AVR Programmer 6 pogo pin 2.54 mm spacing
+
+0
+6
+6
+josh-connectors
+Banana_Jack_1Pin
+Single banana socket, footprint - 6mm drill
+banana socket
+0
+1
+1
+josh-connectors
+ECP5-Mini-Edge-20x2.54-40x1.27
+Through hole straight socket strip, 1x40, 1.27mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x40 1.27mm single row
+0
+100
+40
+josh-connectors
+ECP5-Mini-Edge-40x1.27
+Through hole straight socket strip, 1x40, 1.27mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x40 1.27mm single row
+0
+40
+40
+josh-connectors
+JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal
+JST PH series connector, S2B-PH-SM4-TB mounding pads grounded
+connector JST PH top entry
+0
+4
+2
+josh-connectors
+JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal
+JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
+0
+6
+5
+josh-connectors
+Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+6
+5
+josh-connectors
+OBD-II-Sparkfun
+
+
+0
+16
+16
+josh-connectors
+PMOD_HOST
+PMOD host connector
+
+0
+12
+12
+josh-connectors
+PinHeader_1x01_P2.54mm_Circle
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+josh-connectors
+PinHeader_1x05_P2.54mm_Circle
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+josh-connectors
+PinSocket_2x08_P1.27mm_Horizontal
+Through hole angled socket strip, 2x08, 1.27mm pitch, 4.4mm socket length, double cols (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD091.pdf&t=1511594177220), script generated
+Through hole angled socket strip THT 2x08 1.27mm double row
+0
+16
+16
+josh-connectors
+PinSocket_2x16_P1.27mm_Horizontal
+Through hole angled socket strip, 2x16, 1.27mm pitch, 4.4mm socket length, double cols (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD091.pdf&t=1511594177220), script generated
+Through hole angled socket strip THT 2x16 1.27mm double row
+0
+32
+32
+josh-connectors
+SAMTEC_FTSH-105-01-L-DV-R-TR
+surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x05 1.27mm double row
+0
+10
+10
+josh-connectors
+SMA_EDGE_MOUNT
+http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf
+SMA
+0
+5
+2
+josh-connectors
+SMA_EDGE_MOUNT_INSET
+http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf
+SMA
+0
+5
+2
+josh-connectors
+TerminalBlock_393570003_1x03_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-3-3.5-H, 3 pins, pitch 3.5mm, size 10.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-3-3.5-H pitch 3.5mm size 10.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+3
+3
+josh-connectors
+USB-C_MID_MOUNT_918-418K2024S40000
+
+
+0
+20
+14
+josh-connectors
+USB_C_Receptacle_Amphenol_10137062-00021LF
+USB TYPE C, RA RCPT PCB, Hybrid
+USB C Type-C Receptacle Hybrid
+0
+28
+25
+josh-connectors
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+24
+17
+josh-connectors
+USB_C_TYPE-C-31-M-14
+USB C Type-C Receptacle SMD sunk into PCB
+
+0
+24
+17
+josh-connectors
+USB_C_TYPE-C-31-M-14_COMPACT
+USB C Type-C Receptacle SMD sunk into PCB
+
+0
+24
+17
+josh-connectors
+feather-board
+
+
+0
+30
+29
+josh-dfn-qfn
+QFN-16-1EP_3x3mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+16-Lead Plastic Quad Flat, No Lead Package (NG) - 3x3x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+26
+17
+josh-dfn-qfn
+QFN-20-1EP_4x4mm_P0.5mm_EP2.15x2.15mm_ThermalVias
+QFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=274), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+30
+21
+josh-dfn-qfn
+QFN-20-1EP_4x4mm_P0.5mm_EP2x2mm_ThermalVias
+QFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=274), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+29
+21
+josh-dfn-qfn
+QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias
+QFN, 24 Pin (https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+38
+25
+josh-dfn-qfn
+QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+54
+29
+josh-dfn-qfn
+QFN-32-1EP_5x5mm_Pitch0.5mm_Thermal_Vias
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+45
+33
+josh-dfn-qfn
+QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+75
+45
+josh-dfn-qfn
+QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm_ThermalVias
+QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+74
+49
+josh-dfn-qfn
+QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm_ThermalVias
+QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+74
+49
+josh-dfn-qfn
+QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias
+QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf (page 1083)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+90
+65
+josh-dfn-qfn
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+josh-dfn-qfn
+Texas_RGY0020A_VQFN-20_2.5x4.5mm_P0.5mm
+
+DFN 0.5
+0
+29
+21
+josh-dfn-qfn
+Texas_RNH0030A_WQFN-30_2.5x4.5mm_P0.4mm
+
+
+0
+36
+31
+josh-dfn-qfn
+UQFN-10_1.4x1.8_Pitch0.4mm
+
+
+0
+10
+10
+josh-dfn-qfn
+USON-8-1EP_3x4mm_P0.8mm_EP2.4x0.2mm
+DFN, 8 Pin (https://www.st.com/resource/en/datasheet/ld1086.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+9
+9
+josh-dfn-qfn
+VSON-6-1EP_3x3mm_P0.65mm_EP1.65x2.4mm
+VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+13
+9
+josh-dfn-qfn
+WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm
+WSON, 6 Pin (http://www.ti.com/lit/ds/symlink/tps61040.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+9
+7
+josh-dfn-qfn
+WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm
+WSON, 8 Pin (http://ww1.microchip.com/downloads/en/AppNotes/S72030.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+13
+9
+josh-display
+1.8TFT
+
+
+0
+14
+14
+josh-keyboard
+ADNS-5050
+
+
+0
+8
+8
+josh-keyboard
+Choc_Hotswap
+
+
+0
+2
+2
+josh-keyboard
+DUMMY_SK6812MINI-E
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+4
+0
+josh-keyboard
+Kailh_Hotswap_1U
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+10
+2
+josh-keyboard
+LEDOnly-1U
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.5U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.5U-NoLED-3PIN
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.25U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.75U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.75U-NoLED-3PIN
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1U-NoLED-3PIN
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2.25U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2.75U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2.75U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2U-NoLED-3PIN
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2U-ReversedStabilizers-NoLED-3PIN
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-3U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-3U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6.25U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6U-Centered-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6U-Centered-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_ENCODER
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+5
+josh-keyboard
+POGO_P100_Kailh_Hotswap_1U
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+3
+2
+josh-keyboard
+Ploopy-Nano
+
+
+0
+0
+0
+josh-keyboard
+TRACKBALL
+
+
+0
+0
+0
+josh-keyboard
+Trackball_Tactile_Switch
+
+
+0
+4
+2
+josh-led
+LED_0603_1608Metric_45_noSilk
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+josh-led
+LED_0606_E6C0606RGBC3UDA
+0606 RGB Led suits https://datasheet.lcsc.com/szlcsc/1912111437_EKINGLUX-E6C0606RGBC3UDA_C375569.pdf
+
+0
+4
+4
+josh-led
+LED_ARGB_PLCC4_1210
+RGB LED PLCC 1210 package
+
+0
+4
+4
+josh-led
+LED_TRI_2020
+LED Tri SMD 2020, reflow soldering
+tri led 2020
+0
+4
+4
+josh-led
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+josh-led
+LO-A67F
+
+
+0
+2
+2
+josh-led
+SK8612-MINI-E
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+4
+4
+josh-led
+WS2812C-2020
+
+
+0
+4
+4
+josh-logos
+4-layer-check
+
+
+0
+0
+0
+josh-logos
+OSHW-Logo2_9.8x8mm_Mask
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+josh-logos
+OSHW_Logo_3.6x3.6_F.CU
+
+
+0
+0
+0
+josh-logos
+OSHW_Logo_3.6x3.6_F.Mask
+
+
+0
+0
+0
+josh-logos
+board-title
+
+
+0
+0
+0
+josh-logos
+josh-details
+
+
+0
+0
+0
+josh-logos
+josh-johnson-logo-8_6x1_5
+
+
+0
+0
+0
+josh-logos
+josh-johnson-logo-11x2
+
+
+0
+0
+0
+josh-logos
+josh-johnson-logo-17x3
+
+
+0
+0
+0
+josh-logos
+sea-micro-silk
+
+
+0
+0
+0
+josh-logos
+sea-picro-silk
+
+
+0
+0
+0
+josh-mechanical
+Buzzer_Murata_PKMCS0909E
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer Beeper
+0
+2
+2
+josh-mechanical
+DIP-8_W7.62mm_FEMALE_HEADERS
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+josh-mechanical
+GH-201A
+
+
+0
+0
+0
+josh-mechanical
+GH-201A_X_Adj
+
+
+0
+0
+0
+josh-mechanical
+MIC_CMA-4544PF-W
+
+
+0
+2
+2
+josh-mechanical
+SLP3-150-150-F
+Light pipe right angle PLCC4
+
+0
+0
+0
+josh-mechanical
+microSD_HC_Molex_104031-0811
+1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
+microSD SD molex
+0
+14
+11
+josh-module
+Arduino_Pro_Micro
+
+
+0
+24
+24
+josh-module
+ESP-12E
+Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/aithinker_esp_12f_datasheet_en.pdf
+Wi-Fi Module
+0
+22
+22
+josh-module
+ESP32-S2-WROVER
+ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
+ESP32-S2  ESP32  WIFI
+0
+43
+43
+josh-module
+GPS6MV2
+
+
+0
+8
+4
+josh-module
+LCD_1602_Display
+LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
+josh-module
+LCD_2004_Display
+LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
+josh-module
+OLED_SSD1306_I2C_0.96
+Display 0.96" OLED 128x64 pixel with SSD1306 controller and I2C interface
+display OLED SSD1306 128x64
+0
+4
+4
+josh-module
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+josh-module
+Sea-Picro_EXT_Module
+
+
+0
+32
+32
+josh-module
+Sea-Picro_EXT_Module_Castellated
+
+
+0
+32
+32
+josh-module
+Sea-Picro_EXT_Module_Flipped
+
+
+0
+32
+32
+josh-module
+Sea-Picro_EXT_Pins
+
+
+0
+32
+32
+josh-module
+Sea-Picro_EXT_Pins_Castellated
+
+
+0
+63
+32
+josh-module
+Sea-Picro_EXT_Pogo_Pins
+
+
+0
+36
+32
+josh-module
+Sea-Picro_RST_Pins
+
+
+0
+26
+26
+josh-module
+nRF52840_holyiot_18010
+
+
+0
+55
+55
+josh-oscillators
+ASTXR-12
+TCXO 19.2 MHZ
+
+0
+4
+4
+josh-oscillators
+CDFN_3.2x2.5mm_XO
+Oscilator suits Microchip DSC 6xxx series
+
+0
+4
+4
+josh-oscillators
+Crystal_SMD_2520-4Pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+josh-oscillators
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal reduced paste
+0
+4
+4
+josh-oscillators
+Crystal_SMD_5032-2Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal reduced paste
+0
+2
+2
+josh-oscillators
+Oscillator_SMD_4Pin_2.5x2.0mm
+SMD Crystal Oscillator Seiko Epson SG-210 https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210SED, 2.5x2.0mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+josh-passives-smt
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+josh-passives-smt
+D_SOD-123F
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+josh-passives-smt
+D_SOD-123FL
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+josh-passives-smt
+D_SOD-123_Bidirectional
+SOD-123
+SOD-123
+0
+2
+2
+josh-passives-smt
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+josh-passives-smt
+D_X1-DFN1006-2
+Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+josh-passives-smt
+Ferrite_Bead_0603
+ferrite bead 0603
+Ferrite Bead
+0
+2
+2
+josh-passives-smt
+Fuse_0603_1608Metric
+Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+josh-passives-smt
+Fuse_0805_2012Metric
+Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+josh-passives-smt
+L_SWPA_301x
+Inductor, Wuerth Elektronik, Wuerth_MAPI-3015, 3.0mmx3.0mm
+inductor Wuerth smd
+0
+2
+2
+josh-power
+Texas_X2SON-4_1x1mm_P0.65mm
+X2SON 5 pin 1x1mm package (Reference Datasheet: http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf Reference part: TPS383x) [StepUp generated footprint]
+X2SON
+0
+13
+5
+josh-rf
+CD542
+
+
+0
+6
+6
+josh-rf
+FV1206
+
+
+0
+6
+4
+josh-soic-sot-etc
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+josh-soic-sot-etc
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+josh-soic-sot-etc
+SOT-23-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+josh-soic-sot-etc
+SOT-23-6
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+josh-soic-sot-etc
+SOT-23-6_SRV05
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+josh-soic-sot-etc
+SOT-416
+SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf
+SOT-416
+0
+3
+3
+josh-soic-sot-etc
+SOT-563
+SOT563
+SOT-563
+0
+6
+6
+josh-soic-sot-etc
+VSSOP-8_2.9x3.15mm_P0.65
+
+
+0
+8
+8
+josh-soic-sot-etc
+WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm
+WSON, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf (page 68)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+WSON DFN_QFN
+0
+13
+9
+josh-test-point
+S1751-46_smdTestPoint
+
+
+0
+1
+1
+josh-test-point
+Test-Point-Loop-BLACK
+
+
+0
+1
+1
+josh-test-point
+Test-Point-Loop-RED
+
+
+0
+1
+1
+josh-test-point
+TestPoint_Pogo_1.4mm_Drill_Off_Center
+
+
+0
+1
+1
+josh-test-point
+TestPoint_SMDPad_D0.5mm_NO_SILK
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
+0
+1
+1
+josh-test-point
+TestPoint_SMDPad_D1.0mm_NO_SILK
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
+0
+1
+1
+josh-test-point
+TestPoint_THTPad_D1.0mm_Drill0.5mm_NO_SILK
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
+0
+1
+1
